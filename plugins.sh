@@ -1,28 +1,11 @@
-# Discord-Minecraft-Whitelist
-A nodeJS application that allows you to easily add verification to your minecraft servers by linking discord ids to their associated MC usernames.
+#!/bin/bash
 
-
-
- 
- 
 wget "https://cdn.modrinth.com/data/fRQREgAc/versions/QtTWJjW6/Dynmap-3.7-beta-6-spigot.jar"
- 
 wget "https://github.com/TownyAdvanced/Dynmap-Towny/releases/download/1.1.2/Dynmap-Towny-1.1.2.jar"
- 
 wget "https://github.com/Imprex-Development/orebfuscator/releases/download/5.5.0/orebfuscator-plugin-5.5.0.jar"
- 
 wget "https://c10.patreonusercontent.com/4/patreon-media/p/post/104200466/1ed5f46013c447bab8f5fe10f445def6/eyJhIjoxLCJwIjoxfQ%3D%3D/1?token-time=1721347200&token-hash=yDBRABEtVzkpCfTvgpM4Hg9VK8orSTlUKt3ZQSwrkCQ%3D"
- 
 wget --header="Host: www.spigotmc.org" --header="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" --header="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" --header="Accept-Language: en-US,en;q=0.9" --header="Referer: https://www.spigotmc.org/resources/luckperms.28140/" --header="Cookie: cf_clearance=9ycEIfZ9NjSnNaKfQmnbM9p0ObCckZaALVJ3ZOYgUkg-1720832992-1.0.1.1-.If4Wd8h22PzxT1qIKCdudqMzaQq24CDO49xVkXoFv9ro6P6ivw0LrhW72aHbAIElFUnr8W_Y1QyHbCZ3lkK8A; xf_user=896961%2C06f37be415fd0c33529b4556d391f3edc81ce21d; xf_session=c1db158791931979aff5580b3e19a0d5" --header="Connection: keep-alive" "https://www.spigotmc.org/resources/luckperms.28140/download?version=544174" -c -O 'LuckPerms-Bukkit-5.4.131.jar'
- 
- 
-https://github.com/TownyAdvanced/Towny/releases/download/0.100.3.7/towny-0.100.3.7.jar
- 
- 
-https://github.com/TownyAdvanced/TownyCultures/releases/download/2.0.2/TownyCultures-2.0.2.jar
- 
+wget "https://github.com/TownyAdvanced/Towny/releases/download/0.100.3.7/towny-0.100.3.7.jar"
+wget "https://github.com/TownyAdvanced/TownyCultures/releases/download/2.0.2/TownyCultures-2.0.2.jar"
 wget --header="Host: www.spigotmc.org" --header="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" --header="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" --header="Accept-Language: en-US,en;q=0.9" --header="Referer: https://www.spigotmc.org/resources/veinminer.12038/" --header="Cookie: cf_clearance=9ycEIfZ9NjSnNaKfQmnbM9p0ObCckZaALVJ3ZOYgUkg-1720832992-1.0.1.1-.If4Wd8h22PzxT1qIKCdudqMzaQq24CDO49xVkXoFv9ro6P6ivw0LrhW72aHbAIElFUnr8W_Y1QyHbCZ3lkK8A; xf_user=896961%2C06f37be415fd0c33529b4556d391f3edc81ce21d; xf_session=c1db158791931979aff5580b3e19a0d5" --header="Connection: keep-alive" "https://www.spigotmc.org/resources/veinminer.12038/download?version=532425" -c -O 'veinminer-bukkit-2.2.4.jar'
- 
 wget --header="Host: dl2.9minecraft.net" --header="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" --header="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" --header="Accept-Language: en-US,en;q=0.9" --header="Referer: https://dl2.9minecraft.net/index.php?act=dl&id=1718809010" "https://dl2.9minecraft.net/index.php?act=download&id=1718809010&hash=6694c0105a638" -c -O 'Spawn-Plugin-1.21.jar'
- 
- 
